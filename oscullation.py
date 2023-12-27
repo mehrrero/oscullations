@@ -6,7 +6,7 @@ class orbit:
     
             Encodes the orbit of a binary pair with masses m1 and m2. The orbit is parametrized by the masses of the bodies (in solar masses),
             the eccentricity e, and the semi-major axis a. The orbital plane is described by three angles Omega, omega and l.
-            The evolution of the orbit is measured with respect to the true anomaly f. By default, the starting anomaly is set to f=0. 
+            The evolution of the orbit is measured with respect to the time t. By default, the starting anomaly is set to f=0. 
             Distances are given in m. Time in seconds, Masses in solar masses.
             
             see [Gravity, Newtonian, post-Newtonian, Relativistic. E. Poisson and C. M. Will. Cambridge University. Chapter 3]
